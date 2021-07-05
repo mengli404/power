@@ -33,7 +33,8 @@
 #### 命令行调试大法：
 
 ```
-在项目根目录下运行 node --inspect-brk packages/create-react-app/index.js在chrome地址栏输入 chrome://inspect/#devices 然后就可以看到我们要调试的脚本了
+在项目根目录下运行 node --inspect-brk packages/create-react-app/index.js
+在chrome地址栏输入 chrome://inspect/#devices 然后就可以看到我们要调试的脚本了
 
 ```
 
