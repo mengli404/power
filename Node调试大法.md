@@ -44,5 +44,5 @@ react-scripts 是一个生成的项目所需要的开发依赖;一般我们开�
 
 Reference：
 - [Vscode debugger](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
-- [video](https://www.youtube.com/watch?v=2oFKNL7vYV8 
-https://code.visualstudio.com/docs/introvideos/debugging)
+- [video](https://www.youtube.com/watch?v=2oFKNL7vYV8)
+- [video2](https://code.visualstudio.com/docs/introvideos/debugging)
